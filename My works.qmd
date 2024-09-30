@@ -1,0 +1,15 @@
+---
+title: "My Projects"
+format: html
+editor: visual
+---
+
+1.  **AI CHATBOT FOR MEDICAL ASSISTANCE:**
+
+    We have attempted to build a method which will allow the users to talk about their issues without thinking about the societal taboo and from the comfort of their home. It will be very useful for the people who need urgent care and do not have a trustworthy person around them. This will provide a one step platform where users can find relevant information to help them in their journey. The users will also get the information related to stress management tips and other useful exercises. The user can also look for doctors nearby their homes. The user can talk to our chatbot anytime , anywhere from the application. The chatbot is designed to talk like a human would so that users can talk comfortably and reflect on their thought. You can find Code and resources to access this Project.
+
+<https://colab.research.google.com/drive/11ITsECw1SnIZ2Pg-GuSNCg5XItY1KP7X?authuser=3#scrollTo=Y5icEmudKI05>
+
+2.  **OBSTACLE AVOIDING ROBOT**
+
+    The project objective is to develop a system to track vehicles using the Android operating system to get the location of vehicles and send it to the server. The server is a computer programming that receives vehicle’s locations through a modem and displays these locations on a map. This objective has been met successfully. This Provides the information about the location i.e latitude and longitude of the place where the vehicle is moving via GPS & GSM module.

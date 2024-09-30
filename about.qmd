@@ -1,0 +1,48 @@
+---
+title: "Namaste!!"
+about:
+  template: marquee
+  image: IMG_8519 2.JPG
+format: html
+editor: visual
+---
+
+Hello, I am Aryan Patel Kolagani. I am a Master's Student at George Mason University, currently pursuing Masters in Data Analytics Engineering. I have completed my Bachelor's of Engineering in Electronics and Communication Engineering from Chaitanya Bharathi Institute of Technology, India in 2024.
+
+## Education
+
+George Mason University, Fairfax \| Fairfax, VA MS in Data Analytics Engineering \| Aug 2024 - May 2026
+
+CBIT, Hyderabad \| Telangana, India B.E in Electronics&Communication \| Dec 2020 - May 2024
+
+## Skills
+
+Python \| Java \| R Studio \| MS Excel \| SQL \| HTML
+
+## Projects
+
+AI CHATBOT FOR MEDICAL ASSISTANCE \| ML FRAMEWORK \| PYTHON
+
+*•* Built an app where any questions related to Physical and Mental Health will be answered using ML Framework and Python.
+
+OBSTACLE AVOIDING ROBOT \| ARDUINO
+
+• Developed a Real-time Robot that Detects Obstacle and Avoid that Obstacle by Changing its Course.
+
+## Honors and Activities
+
+**CBIT Photography Club**, June 2022- January 2024
+
+• Worked as the Vice President, 2023.
+
+• Responsible for handling 4 flagship events in the tenure.
+
+**CBIT Model United Nations**
+
+**•** Organising Committee Chair, 2022.
+
+• Worked in PR and Media Relations and conducted 2 Main Events in College.
+
+## Hobbies
+
+Photography \| Movies \| Reading Books \| Re-watching Harry Potter

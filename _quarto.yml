@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: My works.qmd
+        text: My Works
+      - href: contact.qmd
+        text: Contact
+    tools:
+      - icon: twitter
+        href: https://x.com/elonmusk?s=21&t=hH4-Yg1nGONHJeTb31EMGQ
+      - icon: github
+        menu:
+          - text: Profile
+            href:  https://github.com/aryan-patel-404
+          - text: Projects
+            href:  https://github.com/aryan-patel-404?tab=projects 
+format:
+  html:
+    theme: 
+      light: solar
+      dark: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+

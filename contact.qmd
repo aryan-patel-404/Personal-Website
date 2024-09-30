@@ -1,0 +1,11 @@
+---
+title: "Reach me at:"
+format: html
+editor: visual
+---
+
+Personal Mail: aryanpatelkolagani\@gmail.com
+
+Official Mail: akolagan\@GMU.EDU
+
+Phone No: +1 234567

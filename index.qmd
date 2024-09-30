@@ -1,0 +1,22 @@
+---
+title: "ARYAN PATEL KOLAGANI"
+format: html
+editor: visual
+image: IMG_6232.HEIC
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/aryan-patel-kolagani/
+    - text: GitHub
+      href: https://github.com/aryan-patel-404
+    - text: Email
+      href: mailto:akolagan@GMU.EDU
+---
+
+Hi, Welcome to my Professional Website. I am Aryan Patel Kolagani. I am 21 Yrs Old. I am a Student at George Mason University, currently pursuing Masters in Data Analytics Engineering. I am an aspiring Data Engineer. I mainly focuses on Cloud Data Management and Visualization of Data.
+
+Feel free to explore this website.
